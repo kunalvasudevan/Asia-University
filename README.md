@@ -7,9 +7,9 @@ Team member:
 4. Afsar Imam
 
 
-#Introduction
+# Introduction
 
-Sentiment Analysis : Using sentiment analysis we can analyse the text data of a file. 
+'Sentiment Analysis ': Using sentiment analysis we can analyse the text data of a file. 
 
 Translate : Using boto3 library we have created a program that used to translate one language to any other targeted language.
 
